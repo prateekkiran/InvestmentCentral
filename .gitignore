@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+data/monitor-events.jsonl
+data/fyers-session.json
+data/quote-history.jsonl
+data/stock-sweeps.jsonl
+data/daily-history.json
+data/strategy-signals.json
+
